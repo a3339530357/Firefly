@@ -42,7 +42,7 @@ const pages = resolvePageToggles({
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "辞芳",
+	title: "此方",
 
 	// 站点副标题
 	subtitle: "记录与随笔",
